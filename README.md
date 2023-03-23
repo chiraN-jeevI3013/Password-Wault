@@ -12,17 +12,17 @@ Database: DynamoDB (AWS)
 
 
 ## FrontEnd Design
-HOME: You can enter your Email/Username to 
-
+HOME: You can enter your Email/Username to: 
+          
           - CREATE new Email/Username & Password (Axios POST)
-          
           - UPDATE existing Email/Username & Password (Axios POST)
-          
           - DELETE existing Email/Username & Password with Email/Username (Axios DELETE)
           
 ABOUT:    View the functionalities of the Application
 
-LIST:     View all the stored credentials from Database (Axios GET)
+LIST:     View all the stored credentials from Database:
+
+          - RETRIEVE existing Email/Username & Password (Axios GET)
 
 
 ## BackEnd Design
