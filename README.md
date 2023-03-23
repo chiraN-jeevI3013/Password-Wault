@@ -56,6 +56,7 @@ database.js - Contains the configuration for your AWS account and can be used fo
     express
     body-parser
     cors
+    aws-sdk
 
 
 ## To Run (Terminal)
