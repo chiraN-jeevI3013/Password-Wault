@@ -1,4 +1,4 @@
-# Bassword-Waltu
+# Bassword-Waltu (VueJS + NodeJS + DynamoDB)
 
 A Password Vault where you can store and retrieve your stored credentials such as email/username and password. Do keep in mind that the data is stored without any kind of encryption. Its a simple CRUD application with basic functionalities.
 
